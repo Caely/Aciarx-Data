@@ -1,0 +1,164 @@
+
+
+
+CORRIDA;	TURMA;	PRODUCAO (T);	PRODUCAO ACUMULADA (T);	SUCATA (T);	RENDIMENTO (%); 	POTENCIA (MW);	POTENCIA (kWh);	kWh/T;	kWh/T ACUMULADO;	kWh/min;	kWh/min ACUMULADO;	LAN O2 (Nm3);	CARVAO (Kg);	CJ O2 (Nm3);	CJ GN (Nm3);	PW_OFF (min);	PW_ON (min);	TTT (min);	TEMP 
+ECIL;
+CARBONO (%); 
+65861      ; 	GI             ;	25             ;	25              ;	25             ;	100           ;	21,45174654447;	11155        ;	446              ;	446                   ;	358              ;	358                   ;	80               ;	284            ;	1026,80616            ;	180,79096             ;	8,9        ;	31,2          ;	40,1          ;	1667                     ;	0,0740000009536743       ;
+65862      ; 	DI             ;	26,32634       ;	51,32634        ;	26             ;	101,2551538461;	20,89282738095;	10969        ;	417              ;	431                   ;	348              ;	353                   ;	76               ;	177            ;	893,43537             ;	184,41405             ;	8,533333333;	31,5          ;	40,03333333333;	1673                     ;	0,063000001013279        ;
+65863      ; 	DI             ;	25,01137       ;	76,33771        ;	25             ;	100,04548     ;	19,41238239020;	9976         ;	399              ;	420                   ;	324              ;	343                   ;	179              ;	212            ;	1023,07463            ;	179,85635             ;	8,183333333;	30,83333333333;	39,01666666666;	1690                     ;	0,0719999969005585       ;
+65864      ; 	DI             ;	24,95344       ;	101,29115       ;	25             ;	99,81376      ;	21,75942083990;	9580         ;	384              ;	411                   ;	363              ;	347                   ;	71               ;	126            ;	849,43841             ;	190,10798             ;	14,95      ;	26,41666666666;	41,36666666666;	1678                     ;	0,0689999982714653       ;
+65865      ; 	DI             ;	25,08667       ;	126,37782       ;	25             ;	100,34668     ;	21,07132000430;	9347         ;	373              ;	404                   ;	351              ;	348                   ;	130              ;	22             ;	758,8796              ;	164,02552             ;	7,3        ;	26,61666666666;	33,91666666666;	1695                     ;	0,0700000002980232       ;
+65866      ; 	DI             ;	24,14824       ;	150,52606       ;	24             ;	100,6176666666;	21,56359249923;	9728         ;	403              ;	404                   ;	359              ;	350                   ;	137              ;	236            ;	900,23281             ;	173,68791             ;	9,316666666;	27,06666666666;	36,38333333333;	1677                     ;	0,0740000009536743       ;
+65867      ; 	DI             ;	24,15403       ;	174,68009       ;	24             ;	100,6417916666;	21,06702460779;	8673         ;	359              ;	397                   ;	351              ;	350                   ;	128              ;	90             ;	682,39442             ;	168,01941             ;	10,78333333;	24,7          ;	35,48333333333;	1647                     ;	0,0509999990463257       ;
+65868      ; 	DI             ;	23,80067       ;	198,48076       ;	24             ;	99,16945833333;	21,60215473790;	9301         ;	391              ;	397                   ;	360              ;	351                   ;	143              ;	109            ;	815,03278             ;	171,9421              ;	10,58333333;	25,83333333333;	36,41666666666;	1667                     ;	0,0299999993294477       ;
+65869      ; 	DI             ;	25,12722       ;	223,60798       ;	25             ;	100,50888     ;	21,16644779569;	9619         ;	383              ;	395                   ;	353              ;	351                   ;	132              ;	127            ;	779,86916             ;	178,43717             ;	10,61666666;	27,26666666666;	37,88333333333;	1672                     ;	0,0540000014007092       ;
+65870       ; 	DI              ;	25              ;	248,60798        ;	25              ;	100            ;	20,990500869614;	9743          ;	390               ;	395                    ;	350               ;	351                    ;	129               ;	171             ;	891,6649               ;	214,2574               ;	22,6        ;	27,85          ;	50,45          ;	0                         ;	0                         ;
+65871       ; 	DI              ;	24,91289        ;	273,52087        ;	25              ;	99,65156       ;	21,179062954215;	9107          ;	366               ;	392                    ;	353               ;	351                    ;	120               ;	187             ;	718,92322              ;	165,07849              ;	9,7166666666;	25,8           ;	35,516666666666;	1657                      ;	0,0480000004172325        ;
+65872       ; 	DI              ;	25              ;	298,52087        ;	25              ;	100            ;	21,533798953409;	8859          ;	354               ;	389                    ;	359               ;	352                    ;	158               ;	167             ;	706,4462               ;	162,67575              ;	10,566666666;	24,683333333333;	35,25          ;	1688                      ;	0,061999998986721         ;
+65873       ; 	DI              ;	25              ;	323,52087        ;	25              ;	100            ;	21,040934726331;	9316          ;	373               ;	388                    ;	351               ;	352                    ;	140               ;	165             ;	715,86372              ;	162,39487              ;	16,8        ;	26,516666666666;	43,316666666666;	1637                      ;	0,0579999983310699        ;
+65874       ; 	DI              ;	24,79703        ;	348,3179         ;	25              ;	99,18812       ;	21,040934726331;	8890          ;	359               ;	385                    ;	351               ;	352                    ;	144               ;	186             ;	756,5312               ;	203,2497               ;	21,366666666;	25,35          ;	46,716666666666;	1668                       ;	0,00499999988824129       ;
+0           ; 	                ;	0               ;	0                ;	0               ;	0              ;	0              ;	0             ;	0                 ;	0                      ;	0                 ;	0                      ;	0                 ;	0               ;	0                      ;	0                      ;	0           ;	0              ;	0              ;	0                          ;	0                         ;
+0           ; 	                ;	0               ;	0                ;	0               ;	0              ;	0              ;	0             ;	0                 ;	0                      ;	0                 ;	0                      ;	0                 ;	0               ;	0                      ;	0                      ;	0           ;	0              ;	0              ;	0                          ;	0                         ;
+0           ; 	                ;	0               ;	0                ;	0               ;	0              ;	0              ;	0             ;	0                 ;	0                      ;	0                 ;	0                      ;	0                 ;	0               ;	0                      ;	0                      ;	0           ;	0              ;	0              ;	0                          ;	0                         ;
+0           ; 	                ;	0               ;	0                ;	0               ;	0              ;	0              ;	0             ;	0                 ;	0                      ;	0                 ;	0                      ;	0                 ;	0               ;	0                      ;	0                      ;	0           ;	0              ;	0              ;	0                          ;	0                         ;
+0           ; 	                ;	0               ;	0                ;	0               ;	0              ;	0              ;	0             ;	0                 ;	0                      ;	0                 ;	0                      ;	0                 ;	0               ;	0                      ;	0                      ;	0           ;	0              ;	0              ;	0                         ;	0                         ;
+0           ; 	                ;	0               ;	0                ;	0               ; 	0              ;	0              ;	0             ;	0                 ;	0                      ;	0                 ;	0                      ;	0                 ;	0               ;	0                      ;	0                      ;	0           ;	0              ;	0              ;	0                         ;	0                         ;
+DADOS:
+
+CORRIDA: 65861      ; TURMA: GI             ; PRODU??O (T): 25             ; PRODU??O ACUMULADA (T): 25              ; 
+SUCATA (T):25             ; RENDIMENTO (%):  100           ; POT?NCIA (MW): 21,45174654447; POT?NCIA (kWh): 11155        ; 
+kWh/T: 446              ; kWh/T ACUMULADO: 446                   ; kWh/min: 358              ; 
+kWh/min ACUMULADO: 358                   ; LAN O2 (Nm3): 80               ; CARVAO (Kg): 284            ; 
+CJ O2 (Nm3): 1026,80616            ; CJ GN (Nm3): 180,79096             ; PW_OFF (min): 8,9        ; PW_ON (min): 31,2          ; 
+TTT (min): 40,1          ; TEMP (GRAUS CELSIUS): 1667                     ; CARBONO (%): 0,0740000009536743       ;     
+
+CORRIDA: 65862      ; TURMA:  DI             ; PRODU??O (T):  26,32634       ; PRODU??O ACUMULADA (T): 51,32634        ; 
+SUCATA (T):26             ; RENDIMENTO (%): 101,2551538461; POT?NCIA (MW): 20,89282738095; POT?NCIA (kWh): 10969        ; 
+kWh/T: 417              ; kWh/T ACUMULADO: 431                   ; kWh/min: 348              ; 
+kWh/min ACUMULADO: 353                   ; LAN O2 (Nm3): 76               ; CARVAO (Kg): 177            ; 
+CJ O2 (Nm3): 893,43537             ; CJ GN (Nm3): 184,41405             ; PW_OFF (min): 8,533333333; PW_ON (min): 31,5          ; 
+TTT (min): 40,03333333333; TEMP (GRAUS CELSIUS): 1673                     ; CARBONO (%): 0,063000001013279        ;
+
+CORRIDA: 65863      ; TURMA: DI             ; PRODU??O (T):  25,01137       ; PRODU??O ACUMULADA (T): 76,33771        ; 
+SUCATA (T):25             ; RENDIMENTO (%):  100,04548     ; POT?NCIA (MW): 19,41238239020; POT?NCIA (kWh): 9976         ; 
+kWh/T: 399              ; kWh/T ACUMULADO: 420                   ; kWh/min: 324              ; 
+kWh/min ACUMULADO: Tag.e_min_acum_corr[3]}; LAN O2 (Nm3): 179              ; CARVAO (Kg): 212            ; 
+CJ O2 (Nm3): 1023,07463            ; CJ GN (Nm3): 179,85635             ; PW_OFF (min): 8,183333333; PW_ON (min): 30,83333333333; 
+TTT (min): 39,01666666666; TEMP (GRAUS CELSIUS): 1690                     ; CARBONO (%): 0,0719999969005585       ;
+
+CORRIDA: 65864      ; TURMA: DI             ; PRODU??O (T):  24,95344       ; PRODU??O ACUMULADA (T): 101,29115       ; 
+SUCATA (T):25             ; RENDIMENTO (%): 99,81376      ; POT?NCIA (MW): 21,75942083990; POT?NCIA (kWh): 9580         ; 
+kWh/T: 384              ; kWh/T ACUMULADO: 411                   ; kWh/min: 363              ;
+kWh/min ACUMULADO:  347                   ; LAN O2 (Nm3): 71               ; CARVAO (Kg): 126            ; 
+CJ O2 (Nm3): 849,43841             ; CJ GN (Nm3): 190,10798             ; PW_OFF (min): 14,95      ; PW_ON (min): 26,41666666666; 
+TTT (min): 41,36666666666; TEMP (GRAUS CELSIUS): 1678                     ; CARBONO (%): 0,0689999982714653       ;
+
+CORRIDA: 65865      ; TURMA: DI             ; PRODU??O (T): 25,08667       ; PRODU??O ACUMULADA (T): 126,37782       ; 
+SUCATA (T):25             ; RENDIMENTO (%): 100,34668     ; POT?NCIA (MW): 21,07132000430; POT?NCIA (kWh): 9347         ; 
+kWh/T: 373              ; kWh/T ACUMULADO: 404                   ; kWh/min: 351              ; 
+kWh/min ACUMULADO: 348                   ; LAN O2 (Nm3): 130              ; CARVAO (Kg): 22             ; 
+CJ O2 (Nm3): 758,8796              ; CJ GN (Nm3): 164,02552             ; PW_OFF (min): 7,3        ; PW_ON (min): 26,61666666666; 
+TTT (min): 33,91666666666; TEMP (GRAUS CELSIUS): 1695                     ; CARBONO (%): 0,0700000002980232       ;
+
+CORRIDA: 65866      ; TURMA: DI             ; PRODU??O (T): 24,14824       ; PRODU??O ACUMULADA (T): 150,52606       ; 
+SUCATA (T):24             ; RENDIMENTO (%): 100,6176666666; POT?NCIA (MW): 21,56359249923; POT?NCIA (kWh): 9728         ; 
+kWh/T: 403              ; kWh/T ACUMULADO: 404                   ; kWh/min: 359              ; 
+kWh/min ACUMULADO: 350                   ; LAN O2 (Nm3): 137              ; CARVAO (Kg): 236            ; 
+CJ O2 (Nm3): 900,23281             ; CJ GN (Nm3): 173,68791             ; PW_OFF (min): 9,316666666; PW_ON (min): 27,06666666666; 
+TTT (min): 36,38333333333; TEMP (GRAUS CELSIUS): 1677                     ; CARBONO (%): 0,0740000009536743       ;
+
+CORRIDA: 65867      ; TURMA: DI             ; PRODU??O (T): 24,15403       ; PRODU??O ACUMULADA (T): 174,68009       ; 
+SUCATA (T):24             ; RENDIMENTO (%): 100,6417916666; POT?NCIA (MW): 21,06702460779; POT?NCIA (kWh): 8673         ; 
+kWh/T: 359              ; kWh/T ACUMULADO: 397                   ; kWh/min: 351              ; 
+kWh/min ACUMULADO: 350                   ; LAN O2 (Nm3): 128              ; CARVAO (Kg): 90             ; 
+CJ O2 (Nm3): 682,39442             ; CJ GN (Nm3): 168,01941             ; PW_OFF (min): 10,78333333; PW_ON (min): 24,7          ; 
+TTT (min): 35,48333333333; TEMP (GRAUS CELSIUS): 1647                     ; CARBONO (%): 0,0509999990463257       ;
+
+CORRIDA: 65868      ; TURMA: DI             ; PRODU??O (T): 23,80067       ; PRODU??O ACUMULADA (T): 198,48076       ; 
+SUCATA (T):24             ; RENDIMENTO (%): 99,16945833333; POT?NCIA (MW): 21,60215473790; POT?NCIA (kWh): 9301         ; 
+kWh/T: 391              ; kWh/T ACUMULADO: 397                   ; kWh/min: 360              ; 
+kWh/min ACUMULADO: 351                   ; LAN O2 (Nm3): 143              ; CARVAO (Kg): 109            ; 
+CJ O2 (Nm3): 815,03278             ; CJ GN (Nm3): 171,9421              ; PW_OFF (min): 10,58333333; PW_ON (min): 25,83333333333; 
+TTT (min): 36,41666666666; TEMP (GRAUS CELSIUS): 1667                     ; CARBONO (%): 0,0299999993294477       ;
+
+CORRIDA: 65869      ; TURMA: DI             ; PRODU??O (T): 25,12722       ; PRODU??O ACUMULADA (T): 223,60798       ; 
+SUCATA (T):25             ; RENDIMENTO (%): 100,50888     ; POT?NCIA (MW): 21,16644779569; POT?NCIA (kWh): 9619         ; 
+kWh/T: 383              ; kWh/T ACUMULADO: 395                   ; kWh/min: 353              ; 
+kWh/min ACUMULADO: 351                   ; LAN O2 (Nm3): 132              ; CARVAO (Kg): 127            ; 
+CJ O2 (Nm3): 779,86916             ; CJ GN (Nm3): 178,43717             ; PW_OFF (min): 10,61666666; PW_ON (min): 27,26666666666; 
+TTT (min): 37,88333333333; TEMP (GRAUS CELSIUS): 1672                     ; CARBONO (%): 0,0540000014007092       ;
+
+CORRIDA: 65870       ; TURMA: DI              ; PRODU??O (T): 25              ; PRODU??O ACUMULADA (T): 248,60798        ; 
+SUCATA (T):25              ; RENDIMENTO (%): 100            ; POT?NCIA (MW): 20,990500869614; POT?NCIA (kWh): 9743          ;
+ kWh/T: 390               ; kWh/T ACUMULADO: 395                    ; kWh/min: 350               ; 
+kWh/min ACUMULADO: 351                    ; LAN O2 (Nm3): 129               ; CARVAO (Kg): 171             ; 
+CJ O2 (Nm3): 891,6649               ; CJ GN (Nm3): 214,2574               ; PW_OFF (min): 22,6        ; PW_ON (min): 27,85          ; TTT (min): 50,45          ; TEMP (GRAUS CELSIUS): 0                         ; CARBONO (%): 0                         ;
+
+CORRIDA: 65871       ; TURMA: DI              ; PRODU??O (T): 24,91289        ; PRODU??O ACUMULADA (T): 273,52087        ; 
+SUCATA (T): 25              ; RENDIMENTO (%): 99,65156       ; POT?NCIA (MW): 21,179062954215; POT?NCIA (kWh): 9107          ;
+kWh/T:  366               ; kWh/T ACUMULADO: 392                    ; kWh/min: 353               ; 
+kWh/min ACUMULADO: 351                    ; LAN O2 (Nm3): 120               ; CARVAO (Kg): 187             ; 
+CJ O2 (Nm3): 718,92322              ; CJ GN (Nm3): 165,07849              ; PW_OFF (min): 9,7166666666; PW_ON (min): 25,8           ; TTT (min): 35,516666666666; TEMP (GRAUS CELSIUS): 1657                      ; CARBONO (%): 0,0480000004172325        ;
+
+CORRIDA: 65872       ; TURMA: DI              ; PRODU??O (T): 25              ; PRODU??O ACUMULADA (T): 298,52087        ; 
+SUCATA (T):25              ; RENDIMENTO (%): 100            ; POT?NCIA (MW): 21,533798953409; POT?NCIA (kWh): 8859          ;
+kWh/T:  354               ; kWh/T ACUMULADO: 389                    ; kWh/min: 359               ; 
+kWh/min ACUMULADO: 352                    ; LAN O2 (Nm3): 158               ; CARVAO (Kg): 167             ; 
+CJ O2 (Nm3): 706,4462               ; CJ GN (Nm3): 162,67575              ; PW_OFF (min): 10,566666666; PW_ON (min): 24,683333333333; TTT (min): 35,25          ; TEMP (GRAUS CELSIUS): 1688                      ; CARBONO (%): 0,061999998986721         ;
+
+CORRIDA: 65873       ; TURMA: DI              ; PRODU??O (T): 25              ; PRODU??O ACUMULADA (T): 323,52087        ; 
+SUCATA (T):25              ; RENDIMENTO (%): 100            ; POT?NCIA (MW): 21,080575797454; POT?NCIA (kWh): 9316          ; 
+kWh/T: 373               ; kWh/T ACUMULADO: 388                    ; kWh/min: 351               ; 
+kWh/min ACUMULADO: 352                    ; LAN O2 (Nm3): 140               ; CARVAO (Kg):  165             ; 
+CJ O2 (Nm3): 715,86372              ; CJ GN (Nm3): 162,39487              ; PW_OFF (min): 16,8        ; PW_ON (min): 26,516666666666; TTT (min): 43,316666666666; TEMP (GRAUS CELSIUS): 1637                      ; CARBONO (%): 0,0579999983310699        ;
+
+CORRIDA: 65874       ; TURMA: DI              ; PRODU??O (T): 24,79703        ; PRODU??O ACUMULADA (T): 348,3179         ; 
+SUCATA (T):25              ; RENDIMENTO (%): 99,18812       ; POT?NCIA (MW): 21,040934726331; POT?NCIA (kWh): 8890          ; 
+kWh/T: 359               ; kWh/T ACUMULADO: 385                    ; kWh/min: 351               ; 
+kWh/min ACUMULADO: 352                    ; LAN O2 (Nm3): 144               ; CARVAO (Kg):  186             ; 
+CJ O2 (Nm3): 756,5312               ; CJ GN (Nm3): 203,2497               ; PW_OFF (min): 21,366666666; PW_ON (min): 25,35          ; TTT (min): 46,716666666666; TEMP (GRAUS CELSIUS): 1668                      ; CARBONO (%): 0,00499999988824129       ;
+
+CORRIDA: 0           ; TURMA:                 ; PRODU??O (T): 0               ; PRODU??O ACUMULADA (T): 0                ; 
+SUCATA (T):0               ; RENDIMENTO (%): 0              ; POT?NCIA (MW): 0              ; POT?NCIA (kWh): 0             ; 
+kWh/T: 0                 ; kWh/T ACUMULADO: 0                      ; kWh/min: 0                 ; 
+kWh/min ACUMULADO: 0                      ; LAN O2 (Nm3): 0                 ; CARVAO (Kg): 0               ; 
+CJ O2 (Nm3): 0                      ; CJ GN (Nm3): 0                      ; PW_OFF (min): 0           ; PW_ON (min): 0              ; TTT (min): 0              ; TEMP (GRAUS CELSIUS): 0                         ; CARBONO (%): 0                         ;
+
+CORRIDA: 0           ; TURMA:                 ; PRODU??O (T): 0               ; PRODU??O ACUMULADA (T): 0                ; 
+SUCATA (T):0               ; RENDIMENTO (%): 0              ; POT?NCIA (MW): 0              ; POT?NCIA (kWh): 0             ; 
+kWh/T: 0                 ; kWh/T ACUMULADO: 0                      ; kWh/min: 0                 ;
+kWh/min ACUMULADO: 0                      ; LAN O2 (Nm3): 0                 ; CARVAO (Kg): 0               ; 
+CJ O2 (Nm3): 0                      ; CJ GN (Nm3): 0                      ; PW_OFF (min): 0           ; PW_ON (min): 0              ; TTT (min): 0              ; TEMP (GRAUS CELSIUS): 0                         ; CARBONO (%): 0                         ;
+
+CORRIDA: 0           ; TURMA:                 ; PRODU??O (T): 0               ; PRODU??O ACUMULADA (T): 0                ; 
+SUCATA (T):0               ; RENDIMENTO (%): 0              ; POT?NCIA (MW): 0              ; POT?NCIA (kWh): 0             ; 
+kWh/T: 0                 ; kWh/T ACUMULADO: 0                      ; kWh/min: 0                 ;
+kWh/min ACUMULADO: 0                      ; LAN O2 (Nm3): 0                 ; CARVAO (Kg): 0               ; 
+CJ O2 (Nm3): 0                      ; CJ GN (Nm3): 0                      ; PW_OFF (min): 0           ; PW_ON (min): 0              ; TTT (min): 0              ; TEMP (GRAUS CELSIUS): 0                         ; CARBONO (%): 0                         ;                                                                                                                                                                                                                                                                                                                                                                        
+
+CORRIDA: 0           ; TURMA:                 ; PRODU??O (T): 0               ; PRODU??O ACUMULADA (T): 0                ; 
+SUCATA (T):0               ; RENDIMENTO (%): 0              ; POT?NCIA (MW): 0              ; POT?NCIA (kWh): 0             ; 
+kWh/T: 0                 ; kWh/T ACUMULADO: 0                      ; kWh/min: 0                 ; 
+kWh/min ACUMULADO: 0                      ; LAN O2 (Nm3): 0                 ; CARVAO (Kg): 0               ; 
+CJ O2 (Nm3): 0                      ; CJ GN (Nm3): 0                      ; PW_OFF (min): 0           ; PW_ON (min): 0              ; TTT (min): 0              ; TEMP (GRAUS CELSIUS): 0                         ; CARBONO (%): 0                         ;
+
+CORRIDA: 0           ; TURMA:                 ; PRODU??O (T): 0               ; PRODU??O ACUMULADA (T): 0                ; 
+SUCATA (T):0               ; RENDIMENTO (%): 0              ; POT?NCIA (MW): 0              ; POT?NCIA (kWh): 0             ; 
+kWh/T: 0                 ; kWh/T ACUMULADO: 0                      ; kWh/min: 0                 ; 
+kWh/min ACUMULADO: 0                      ; LAN O2 (Nm3): 0                 ; CARVAO (Kg): 0               ; 
+CJ O2 (Nm3): 0                      ; CJ GN (Nm3): 0                      ; PW_OFF (min): 0           ; PW_ON (min): 0              ; TTT (min): 0              ; TEMP (GRAUS CELSIUS): 0                         ; CARBONO (%): 0                         ;
+
+CORRIDA: 0           ; TURMA:                 ; PRODU??O (T): 0               ; PRODU??O ACUMULADA (T): 0                ; 
+SUCATA (T):0               ; RENDIMENTO (%): 0              ; POT?NCIA (MW): 0              ; POT?NCIA (kWh): 0             ; 
+kWh/T: 0                 ; kWh/T ACUMULADO:  0                      ; kWh/min: 0                 ; 
+kWh/min ACUMULADO: 0                      ; LAN O2 (Nm3): 0                 ; CARVAO (Kg): 0               ; 
+CJ O2 (Nm3): 0                      ; CJ GN (Nm3): 0                      ; PW_OFF (min): 0           ; PW_ON (min): 0              ; TTT (min): 0              ; TEMP (GRAUS CELSIUS): 0                         ; CARBONO (%): 0                         ;                                                                                                                        
+
+
+                                        
+
+
+
+
+                                                                                                                                                                                                                                                                                   		 
