@@ -23,8 +23,10 @@ def main():
     resultado = get_turma_freq_mes(listdir(),3,2020)
     print(resultado)
 
+    #calculo do power_on power_off e ttt
     csv = csv_reader("RELATORIO_PRODUCAO_15_3_2020_21_.csv")
-    print(media_dia_ligado(csv))
+    print(media_dia_ligado(csv,29.5,9.5))
+
     return 0
 
 
@@ -104,7 +106,8 @@ def get_power_off(array):
 def get_ttt(array):
     return float(array[18])
 
-def media_dia_ligado(csv):
+
+def media_dia_ligado(csv,meta_pon,meta_poff):
     csv.pop(0)
     total_power_on = 0
     total_power_off = 0
@@ -113,6 +116,12 @@ def media_dia_ligado(csv):
         total_power_on = total_power_on + get_power_on(corrida)
         total_power_off = total_power_off + get_power_off(corrida)
         total_ttt = total_ttt + get_ttt(corrida)
+   
+    n_corridas = len(csv)
+    meta_dia_pon = meta_pon * n_corridas
+    meta_dia_poff = meta_poff * n_corridas
+    tempo_extra = meta_dia_pon - total_power_on
+    print(tempo_extra)
     return total_power_on
 
 main()
