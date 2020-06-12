@@ -10,6 +10,9 @@ def csv_func(file):
     table = get_all_valors(matrix)
     treat_valors(table,titles)
     name = get_new_file_name(file)
+    turno = get_turno(name)
+    titles.append("Turno")
+    add_turno(table,turno)
     write_csv(name,table,titles)
 
 
@@ -101,3 +104,23 @@ def get_new_file_name(file):
     hora = time[3]
     new_name = "RELATORIO_PRODUCAO_{}_{}_{}_{}_.csv".format(dia,mes,ano,hora)
     return new_name
+
+
+def get_turno(name):
+  
+    regex = r"\d+_.csv"
+    result = re.findall(regex,name)
+    aux = result[0].split('_')
+    hora = int(aux[0])
+    
+    if(hora >= 6 and hora < 13):
+        return "Manhā"
+    elif (hora >= 13 and hora < 21):
+        return "Tarde"
+    else:
+        return "Noite" 
+
+def add_turno(table, turno):
+    for corrida in table:
+        corrida.append(turno)
+    return table

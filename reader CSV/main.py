@@ -14,9 +14,9 @@ def main():
     print(array[0], array[1])
     print(array[0]/array[1])
 
-    #media de corridas por turno no mes
+    #media de corridas por dia no mes
     media = media_corrida_turno_mes(listdir(),3,2020)
-    print("Numero de corridas: {0}\nNumero de turnos:{1}\nMedia: {2:.2f}"
+    print("Numero de corridas: {0}\nNumero de dias:{1}\nMedia: {2:.2f}"
     .format(media[0],media[1],media[0]/media[1]))
 
     #quantidade de corridas por cada turma no mes
@@ -121,7 +121,7 @@ def media_dia_ligado(csv,meta_pon,meta_poff):
     meta_dia_pon = meta_pon * n_corridas
     meta_dia_poff = meta_poff * n_corridas
     tempo_extra = meta_dia_pon - total_power_on
-    print(tempo_extra)
+    print("Pon extra diario: " + str(tempo_extra))
     return total_power_on
 
 main()
