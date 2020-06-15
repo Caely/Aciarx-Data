@@ -6,7 +6,7 @@ from operator import itemgetter
 
 def gerar_relatorio_mensal(mes,ano):
     file_name = "RELATORIO_MEDIA_" + str(mes) + '_' + str(ano) + ".csv"
-    titulos = ["Dia","Produçāo Acumulada","N Corridas","Pon","Poff","Pon Extra", "Poff Extra"]
+    titulos = ["Dia","Produçāo Acumulada","N Corridas","Pon (Min)","Poff (Min)","Pon Extra (Min)", "Poff Extra (Min)"]
     valores = []
     table = []
     files_array = listdir()
