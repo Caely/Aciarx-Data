@@ -2,7 +2,7 @@ import csv
 import re
 from os import listdir
 from main import *
-
+from operator import itemgetter
 
 def gerar_relatorio_mensal(mes,ano):
     file_name = "RELATORIO_MEDIA_" + str(mes) + '_' + str(ano) + ".csv"
@@ -14,6 +14,7 @@ def gerar_relatorio_mensal(mes,ano):
     for file in files_array:
         if(re.search(regex,file)):
             valores = get_medias_dia(file,valores)
+    valores.sort(key=itemgetter(0))
     write_csv(file_name,valores,titulos)
 
 
@@ -81,6 +82,7 @@ def check_dia(valores, dia):
         if(valores[i][0] == dia):
             return i
     return -1
+
 
 
 gerar_relatorio_mensal(3,2020)
