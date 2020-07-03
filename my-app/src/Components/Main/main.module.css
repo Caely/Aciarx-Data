@@ -1,0 +1,21 @@
+.main {
+  position: relative;
+  margin-left: 256px;
+  height: 100%;
+}
+
+.main::before {
+  content: " ";
+  display: block;
+  height: 100%;
+  width: 16px;
+  position: fixed;
+  background-color: white;
+  transform: translateX(-100%);
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+}
+
+.main > .content {
+  padding: 24px 8px;
+}
